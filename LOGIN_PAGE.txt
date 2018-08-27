@@ -1,0 +1,23 @@
+import getpass
+import os
+
+def login():
+	os.system('cls')
+	loop=True
+	attempt=0
+	print("~~~LOG IN PAGE~~~")
+	
+	#read from csv file codes
+
+	while loop:
+		user=input("Username: ")
+		passw=getpass.getpass()
+		attempt+=1
+
+		#error checking codes
+
+		if attempt==5:
+                             print("Reached maxed attempts of 5!")
+                             break
+
+login()

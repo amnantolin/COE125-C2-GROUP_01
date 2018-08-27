@@ -1,0 +1,12 @@
+value=True
+for i in range(len(username)):		     	
+        if user==username[i]:
+                value=False
+                if passw==password[i]:
+                         
+			#output user details codes
+                else:
+                        print("Incorrect Password!")
+                        break
+if value:
+        print("Incorrect Username!")
