@@ -1,0 +1,14 @@
+if passw==password[i]:
+         print("Welcome " + name[i])
+         print("Your username is " + username[i])
+         print("Your password is " + password[i])
+         while True:
+                  choice=input("Would you like to logout? (Y/N): ")
+                  if choice=='Y'or choice=='y':
+                                  print("Logged out!")
+                                  loop=False
+                                  break
+                  if choice=='N' or choice=='n':
+                                  print("Okay!")
+                  else:
+                                  print("Incorrect choice!")
