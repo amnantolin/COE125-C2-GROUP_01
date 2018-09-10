@@ -1,0 +1,5 @@
+CardNum,AccountNum,PinNum,AccountType,FName,MName,LName,Age,ContactNum,Email,Address
+2141235413131412,222222222222,222222,Savings,Jean Marc,Dimaano,Reyes,69,09543513213,jm18reyes@yahoo.com,Mindoro
+2312312312312312,333333333333,333333,Checking,Danielle,Olegario,Jawod,96,09666666666,dnojawod@mymail.mapua.edu.ph,Taguig City
+1241251321241241,111111111111,111111,Checking,Arryll,Natividad,Antolin,100,09546464564,arryll07@gmail.com,Bulacan
+2141241241241241,444444444444,444444,Savings,Paul,Ambeguia,Castro,70,09546464646,pacastro@mymail.mapua.edu.ph,Marikina City
