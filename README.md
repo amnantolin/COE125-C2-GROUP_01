@@ -6,8 +6,8 @@
 ## BANKING SYSTEM PYTHON PROGRAM
 ----
 ### Group Members
-* ANGULO, Ralz
-* ANTOLIN, Arryll Mori
-* CASTRO, Paul
-* JAWOD, Danielle Nicole
-* REYES, Jean Marc
+* [ANGULO, Ralz](https://github.com/Reinzalgred)
+* [ANTOLIN, Arryll Mori](https://github.com/amnantolin)
+* [CASTRO, Paul](https://github.com/Castro-Paul-A)
+* [JAWOD, Danielle Nicole](https://github.com/dnojawod)
+* [REYES, Jean Marc](https://github.com/jm18reyes)
